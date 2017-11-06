@@ -3,5 +3,6 @@
 
  1. 一个简单的示例 [css效果](https://codepen.io/MattIn4D/pen/LiKFC)
  2. 生成loading的网站 [icons8](https://icons8.com/cssload/)，[loading.io](https://loading.io/#_=_)，[icons8 另一个](https://icons8.com/preloaders/)
+ 3. css loading screen [enter link description here](https://ihatetomatoes.net/create-custom-preloading-screen/)
 
 > Written with [StackEdit](https://stackedit.io/).
